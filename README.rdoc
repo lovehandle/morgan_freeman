@@ -1,19 +1,12 @@
-= Sinatra Application Template
-tommy chheng
-- forked from zapnap/sinatra-template, removed datamapper + rspec.
+== Morgan Freeman
+<img src="https://github.com/rclosner/morgan_freeman/raw/master/morgan_freeman.jpg" width="200px">
 
-----
-A base Sinatra application template. Just fork and build. Yay!
-Includes Haml all ready to go.
+Morgan Freeman is a static website whose sole purpose is to inform the general public as to the well being of Morgan Freeman.
 
-== Configuration
-Add gems to Gemfile
+== Contributing
 
-Add your controller actions in <tt>application.rb</tt>. Views for these actions are placed in the <tt>views</tt> directory. Static files, including a stock stylesheet, go in the <tt>public</tt> directory. Models go in the <tt>lib</tt> directory and are auto-loaded. 
-
-== Testing
-TODO
-
-== Getting Started
-run using 
-shotgun config.ru -p 4567
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Added some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
