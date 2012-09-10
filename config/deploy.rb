@@ -15,7 +15,7 @@ set :use_sudo, false
 set :runner, "deploy"
 set :deploy_to, "/home/deploy/Projects/morgan_freeman"
 set :app_server, :passenger
-set :domain, "ismorganfreemanalive.com"
+set :domain, "173.255.250.81"
  
 #========================
 #ROLES
